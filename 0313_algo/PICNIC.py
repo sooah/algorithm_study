@@ -20,4 +20,3 @@ for i in range(0, t):
         map_array[map_list[j]][map_list[j+1]] = 1
     map_array = np.maximum(map_array, map_array.T)
     print(delete_row(map_array))
-

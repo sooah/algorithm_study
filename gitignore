@@ -1,0 +1,7 @@
+.idea/
+.gitignore
+*.iml
+/.idea/
+.DS_Store
+*/.idea/
+*.xml
