@@ -4,3 +4,6 @@
 
 ------------------------------------------
 ### 2. 200313 Algorithmic Problem Solving Strategies Part 3, Chapter 6
+
+------------------------------------------
+### 3. 200320 Algorithmic Problem Solving Strategies Part 3, Chapter 7
